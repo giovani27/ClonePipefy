@@ -5,7 +5,7 @@ import { Container } from "./styles";
 function Header() {
   return (
     <Container>
-      <h1>RocketFy</h1>
+      <h1>LakatosFy</h1>
     </Container>
   );
 }
